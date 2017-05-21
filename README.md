@@ -1,5 +1,11 @@
 # Competitive Programming Archive
 Curated automagically using [Code Curator](https://github.com/shunr/code-curator)
+## CodeForces
+Problem|Source|Language|Difficulty|
+---|---|---|---|
+[810A](http://codeforces.com/problemset/problem/810/A)|[Source](CodeForces/810A.py)|Python 2|500.0|
+[810B](http://codeforces.com/problemset/problem/810/B)|[Source](CodeForces/810B.py)|Python 3|1000.0|
+[810C](http://codeforces.com/problemset/problem/810/C)|[Source](CodeForces/810C.cpp)|GNU C++14|1500.0|
 ## DMOJ
 Problem|Source|Language|Difficulty|
 ---|---|---|---|
@@ -129,9 +135,3 @@ Problem|Source|Language|Difficulty|
 [vmss15c1p1](https://dmoj.ca/problem/vmss15c1p1)|[Source](DMOJ/vmss15c1p1.py)|PY3|5.0|
 [vmss7wc16c3p2](https://dmoj.ca/problem/vmss7wc16c3p2)|[Source](DMOJ/vmss7wc16c3p2.py)|PY3|5.0|
 [vmss7wc16c5p4](https://dmoj.ca/problem/vmss7wc16c5p4)|[Source](DMOJ/vmss7wc16c5p4.py)|PY2|5.0|
-## CodeForces
-Problem|Source|Language|Difficulty|
----|---|---|---|
-[810A](http://codeforces.com/problemset/problem/810/A)|[Source](CodeForces/810A.py)|Python 2|500.0|
-[810B](http://codeforces.com/problemset/problem/810/B)|[Source](CodeForces/810B.py)|Python 3|1000.0|
-[810C](http://codeforces.com/problemset/problem/810/C)|[Source](CodeForces/810C.cpp)|GNU C++14|1500.0|
