@@ -1,11 +1,5 @@
 # Competitive Programming Archive
 Curated automagically using [Code Curator](https://github.com/shunr/code-curator)
-## CodeForces
-Problem|Source|Language|Difficulty|
----|---|---|---|
-[810A](http://codeforces.com/problemset/problem/810/A)|[Source](CodeForces/810A.py)|Python 2|500.0|
-[810B](http://codeforces.com/problemset/problem/810/B)|[Source](CodeForces/810B.py)|Python 3|1000.0|
-[810C](http://codeforces.com/problemset/problem/810/C)|[Source](CodeForces/810C.cpp)|GNU C++14|1500.0|
 ## DMOJ
 Problem|Source|Language|Difficulty|
 ---|---|---|---|
@@ -16,6 +10,9 @@ Problem|Source|Language|Difficulty|
 [bf2](https://dmoj.ca/problem/bf2)|[Source](DMOJ/bf2.py)|PY3|5.0|
 [bf3](https://dmoj.ca/problem/bf3)|[Source](DMOJ/bf3.py)|PY3|5.0|
 [bf3hard](https://dmoj.ca/problem/bf3hard)|[Source](DMOJ/bf3hard.c)|C|15.0|
+[bfs17p1](https://dmoj.ca/problem/bfs17p1)|[Source](DMOJ/bfs17p1.py)|PY3|3.0|
+[bfs17p2](https://dmoj.ca/problem/bfs17p2)|[Source](DMOJ/bfs17p2.py)|PY3|6.0|
+[bfs17p3](https://dmoj.ca/problem/bfs17p3)|[Source](DMOJ/bfs17p3.cpp)|CPP14|8.0|
 [binary](https://dmoj.ca/problem/binary)|[Source](DMOJ/binary.py)|PY3|5.0|
 [boolean](https://dmoj.ca/problem/boolean)|[Source](DMOJ/boolean.py)|PY3|4.0|
 [bts16p1](https://dmoj.ca/problem/bts16p1)|[Source](DMOJ/bts16p1.py)|PY3|3.0|
@@ -70,7 +67,7 @@ Problem|Source|Language|Difficulty|
 [ccc14s1](https://dmoj.ca/problem/ccc14s1)|[Source](DMOJ/ccc14s1.py)|PY3|5.0|
 [ccc15j5](https://dmoj.ca/problem/ccc15j5)|[Source](DMOJ/ccc15j5.py)|PY3|10.0|
 [ccc15s1](https://dmoj.ca/problem/ccc15s1)|[Source](DMOJ/ccc15s1.py)|PY3|3.0|
-[ccc96s1](https://dmoj.ca/problem/ccc96s1)|[Source](DMOJ/ccc96s1.py)|PY3|5.0|
+[ccc96s1](https://dmoj.ca/problem/ccc96s1)|[Source](DMOJ/ccc96s1.c)|C|5.0|
 [ccc98s5](https://dmoj.ca/problem/ccc98s5)|[Source](DMOJ/ccc98s5.py)|PY3|10.0|
 [cco07p2](https://dmoj.ca/problem/cco07p2)|[Source](DMOJ/cco07p2.py)|PY3|10.0|
 [cco10p3](https://dmoj.ca/problem/cco10p3)|[Source](DMOJ/cco10p3.cpp)|CLANGX|20.0|
@@ -97,6 +94,10 @@ Problem|Source|Language|Difficulty|
 [dmopc14c5p1](https://dmoj.ca/problem/dmopc14c5p1)|[Source](DMOJ/dmopc14c5p1.py)|PY3|3.0|
 [dmopc15c3p3](https://dmoj.ca/problem/dmopc15c3p3)|[Source](DMOJ/dmopc15c3p3.py)|PY3|7.0|
 [dmopc16c4p1](https://dmoj.ca/problem/dmopc16c4p1)|[Source](DMOJ/dmopc16c4p1.cpp)|CPP11|5.0|
+[dmopc17c1p1](https://dmoj.ca/problem/dmopc17c1p1)|[Source](DMOJ/dmopc17c1p1.py)|PY2|3.0|
+[dmopc17c1p2](https://dmoj.ca/problem/dmopc17c1p2)|[Source](DMOJ/dmopc17c1p2.cpp)|CPP14|7.0|
+[dmopc17c1p3](https://dmoj.ca/problem/dmopc17c1p3)|[Source](DMOJ/dmopc17c1p3.py)|PY3|7.0|
+[dmpg15s5](https://dmoj.ca/problem/dmpg15s5)|[Source](DMOJ/dmpg15s5.cpp)|CPP14|15.0|
 [ds1](https://dmoj.ca/problem/ds1)|[Source](DMOJ/ds1.cpp)|CPP11|10.0|
 [ds4](https://dmoj.ca/problem/ds4)|[Source](DMOJ/ds4.cpp)|CPP11|20.0|
 [ecna05h](https://dmoj.ca/problem/ecna05h)|[Source](DMOJ/ecna05h.py)|PY3|10.0|
@@ -135,3 +136,12 @@ Problem|Source|Language|Difficulty|
 [vmss15c1p1](https://dmoj.ca/problem/vmss15c1p1)|[Source](DMOJ/vmss15c1p1.py)|PY3|5.0|
 [vmss7wc16c3p2](https://dmoj.ca/problem/vmss7wc16c3p2)|[Source](DMOJ/vmss7wc16c3p2.py)|PY3|5.0|
 [vmss7wc16c5p4](https://dmoj.ca/problem/vmss7wc16c5p4)|[Source](DMOJ/vmss7wc16c5p4.py)|PY2|5.0|
+## Codeforces
+Problem|Source|Language|Difficulty|
+---|---|---|---|
+[810A](http://codeforces.com/problemset/problem/810/A)|[Source](Codeforces/810A.py)|Python 2|500.0|
+[810B](http://codeforces.com/problemset/problem/810/B)|[Source](Codeforces/810B.py)|Python 3|1000.0|
+[810C](http://codeforces.com/problemset/problem/810/C)|[Source](Codeforces/810C.cpp)|GNU C++14|1500.0|
+## SPOJ
+Problem|Source|Language|Difficulty|
+---|---|---|---|
