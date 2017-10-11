@@ -145,3 +145,4 @@ Problem|Source|Language|Difficulty|
 ## SPOJ
 Problem|Source|Language|Difficulty|
 ---|---|---|---|
+[TEST](http://spoj.com/problems/TEST)|[Source](SPOJ/TEST.cpp)|CPP|N/A|
